@@ -1,1 +1,2 @@
-words
+print "bello there!"
+
